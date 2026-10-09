@@ -1,0 +1,6 @@
+{
+  "name": "STEAM Engineering Design Studio",
+  "description": "An interactive, iPad-friendly Engineering Design Process workspace for Grade 2–5 students to Ask, Imagine, Plan, Create, Test, and Improve.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
